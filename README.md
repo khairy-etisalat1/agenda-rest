@@ -2,7 +2,7 @@
 <a href="http://travis-ci.org/agenda/agenda-rest"><img src="https://api.travis-ci.org/agenda/agenda-rest.svg?branch=master" alt="Build Status"></a>
 <a href="https://slackin-ekwifvcwbr.now.sh/"><img src="https://slackin-ekwifvcwbr.now.sh/badge.svg" alt="Slack Status"></a>
 
-# agenda-rest
+# Agenda-Rest
 
 Scheduling as a Service, based on [Agenda](https://github.com/agenda/agenda)
 
